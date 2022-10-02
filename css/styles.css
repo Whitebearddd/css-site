@@ -1,0 +1,131 @@
+a {
+  color: #66BFBF;
+  margin: 5px;
+}
+hr{
+  border-style: dotted none none;
+  width: 4%; border-width: 5px; border-color: #66BFBF;
+  margin: 100px auto 100px auto;
+}
+.top {
+background-color: #C3F8FF;
+  padding-left: 20px;
+  padding-top: 100px;
+
+  position: relative;
+}
+
+.middle-container{margin-bottom: 100px;}
+
+.bottom-container {
+  margin-top: 20px;
+  background-color: #C3F8FF;
+  position: relative;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  ;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+
+p {
+  color: #1F4287;
+  font-size: 20px;
+
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.computer {
+  width: 35%;
+float: left;
+margin-right: 30px
+
+}
+
+.chess {
+  width: 25%;
+  border-radius: 25%;
+  float:right;
+  margin-left: 30px;
+
+}
+
+.robot {
+  border-radius: 100px;
+  background-color: #1F4287;
+  ;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+
+.robot1 {
+  height: 120px;
+  width: 120px;
+  border-radius: 120px;
+  background-color: #1F4287;
+}
+
+.email {
+  height: 120px;
+  width: 120px;
+  margin-top: 50px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 200px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+}
+
+.instagram {
+  height: 60px;
+  width: 60px;
+  margin-top: 10px;
+}
+
+.linkedin {
+  height: 60px;
+  width: 60px;
+  margin-top: 10px;
+}
+
+.gmail {
+  height: 60px;
+  width: 60px;
+  margin-top: 10px;
+}
